@@ -25,7 +25,7 @@
     "eslint-plugin-promise": "3.6.0",
     "eslint-plugin-standard": "3.1.0",
     "morgan": "1.9.1",
-    "nodemon": "1.14.11"
+    "nodemon": "1.18.9"
   },
   "scripts": {
     "start": "cross-env NODE_ENV=development nodemon index.js"
